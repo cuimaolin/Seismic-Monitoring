@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Primary_Roads_Label_point" id="Primary_Roads_Label_point">
+	<SimpleField name="REC_ID" type="float"></SimpleField>
+</Schema>
+<Folder><name>Primary_Roads_Label_point</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Primary_Roads_Label_point">
+		<SimpleData name="REC_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.992663994221,53.5946091797743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Primary_Roads_Label_point">
+		<SimpleData name="REC_ID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.986237026913,53.587551779772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Primary_Roads_Label_point">
+		<SimpleData name="REC_ID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.106883926926,53.6433134797901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Primary_Roads_Label_point">
+		<SimpleData name="REC_ID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.001482694222,53.6044664797775</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

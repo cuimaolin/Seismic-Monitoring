@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Township_plyln" id="Township_plyln">
+	<SimpleField name="REC_ID" type="float"></SimpleField>
+</Schema>
+<Folder><name>Township_plyln</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Township_plyln">
+		<SimpleData name="REC_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.946621999985,53.6286323647026 -115.033022439995,53.6287910747853 -115.033038088566,53.5617340047637</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Township_plyln">
+		<SimpleData name="REC_ID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.033341676594,53.5617340047637 -115.033326489995,53.6287915947854 -115.180449540011,53.6285714147853 -115.180511179347,53.5617340047637</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Township_plyln">
+		<SimpleData name="REC_ID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.180814763001,53.5617340047637 -115.180753600011,53.6285707747853 -115.209517000015,53.6285256628194</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Township_plyln">
+		<SimpleData name="REC_ID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.033022369995,53.6289718047854 -114.946621999985,53.6288130888049</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Township_plyln">
+		<SimpleData name="REC_ID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.033011418997,53.6502840047923 -115.033022369995,53.6289718047854</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Township_plyln">
+		<SimpleData name="REC_ID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.180449370011,53.6287521547853 -115.033326399995,53.6289723247854 -115.033315611757,53.6502840047923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Township_plyln">
+		<SimpleData name="REC_ID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.180430374086,53.6502840047923 -115.180449370011,53.6287521547853</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Township_plyln">
+		<SimpleData name="REC_ID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.209517000015,53.6287240384672 -115.180753430011,53.6287515047853 -115.180734585086,53.6502840047923</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

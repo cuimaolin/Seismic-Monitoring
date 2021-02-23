@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Lat_Lon_Label_point" id="Lat_Lon_Label_point">
+	<SimpleField name="REC_ID" type="float"></SimpleField>
+</Schema>
+<!--schemaData可以向与给定地图项关联的用户数据添加类型化数据，这些元素主要提供给有GIS地理信息系统数据的用户-->
+<!--schemaUrl属性引用声明该类型的Schema的ID-->
+<!---->
+<Folder><name>Lat_Lon_Label_point</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Lat_Lon_Label_point">
+		<SimpleData name="REC_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.940282048136,53.5617348367027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Lat_Lon_Label_point">
+		<SimpleData name="REC_ID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.215856951863,53.5617348367027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Lat_Lon_Label_point">
+		<SimpleData name="REC_ID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.940268770875,53.6502828361901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Lat_Lon_Label_point">
+		<SimpleData name="REC_ID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.215870229125,53.6502828361901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Lat_Lon_Label_point">
+		<SimpleData name="REC_ID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.946622999985,53.5579598006527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Lat_Lon_Label_point">
+		<SimpleData name="REC_ID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.946622999985,53.6540581503008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Lat_Lon_Label_point">
+		<SimpleData name="REC_ID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.0,53.5579598006527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Lat_Lon_Label_point">
+		<SimpleData name="REC_ID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.0,53.6540581503008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Lat_Lon_Label_point">
+		<SimpleData name="REC_ID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.209516000015,53.5579598006527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Lat_Lon_Label_point">
+		<SimpleData name="REC_ID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.209516000015,53.6540581503007</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

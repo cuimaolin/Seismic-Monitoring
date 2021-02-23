@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Quarter_Section_plyln" id="Quarter_Section_plyln">
+	<SimpleField name="REC_ID" type="float"></SimpleField>
+</Schema>
+<Folder><name>Quarter_Section_plyln</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.008755919992,53.5633718347642 -115.020887549993,53.5633887647642 -115.0333466313,53.5634048594961</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.020892316429,53.5617340047637 -115.020887549993,53.5633887647642 -115.020866181669,53.5708011757934</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.984198289989,53.5633323847642 -114.996325279991,53.5633525347642 -115.008755919992,53.5633718347642</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.996329696597,53.5617340047637 -114.996325279991,53.5633525347642 -114.996305098723,53.5707387958263</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.959683129986,53.5633020447642 -114.971797369988,53.5633177047642 -114.984198289989,53.5633323847642</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.971799583991,53.5617340047637 -114.971797369988,53.5633177047642 -114.97178274552,53.5707360159328</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.946621999985,53.5632658593053 -114.947264019985,53.5632678047642 -114.959683129986,53.5633020447642</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.947266989264,53.5617340047637 -114.947264019985,53.5632678047642 -114.947246484361,53.5706757858607</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.946621999985,53.5779274289093 -114.947247749985,53.5779301047689 -114.959653889986,53.577981834769</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.947247039985,53.5706767447666 -114.947247749985,53.5779301047689 -114.947248759985,53.5851550147713</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.959653889986,53.577981834769 -114.971769249988,53.5779870747689 -114.984170379989,53.577982884769</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.971783199988,53.5707367947666 -114.971769249988,53.5779870747689 -114.971755069988,53.5852089847713</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.984170379989,53.577982884769 -114.996294579991,53.578018694769 -115.008708069992,53.578053984769</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.996305319991,53.5707397647666 -114.996294579991,53.578018694769 -114.996284199991,53.5852256447713</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.008708069992,53.578053984769 -115.020874789993,53.578049944769 -115.033344256165,53.5780445076992</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.020866899993,53.5708021447666 -115.020874789993,53.578049944769 -115.020882609993,53.5852483147713</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.008720499992,53.5924365947736 -115.020886969993,53.5924701747736 -115.033338296472,53.5925032623981</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.020882609993,53.5852483147713 -115.020886969993,53.5924701747736 -115.020891438393,53.5998821651768</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.984163329989,53.5924456947736 -114.996287389991,53.5924418747736 -115.008720499992,53.5924365947736</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.996284199991,53.5852256447713 -114.996287389991,53.5924418747736 -114.996288896564,53.5998483251921</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.959631129986,53.5924483547736 -114.971741349988,53.5924476747736 -114.984163329989,53.5924456947736</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.971755069988,53.5852089847713 -114.971741349988,53.5924476747736 -114.971730281222,53.5998527051146</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.946621999985,53.5923800398765 -114.947247329985,53.5923833847736 -114.959631129986,53.5924483547736</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.947248759985,53.5851550147713 -114.947247329985,53.5923833847736 -114.947254770834,53.5997806751365</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.946621999985,53.6070180177414 -114.947203809985,53.6070213347783 -114.959600869986,53.6070904547784</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.947253349985,53.599781654776 -114.947203809985,53.6070213347783 -114.947154749985,53.6142500047807</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.959600869986,53.6070904547784 -114.971717919988,53.6070856747784 -114.984145089989,53.6070800747784</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.971730319988,53.599853464776 -114.971717919988,53.6070856747784 -114.971708379988,53.6143147947807</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.984145089989,53.6070800747784 -114.996287799991,53.6070781347784 -115.008733119992,53.6070747847784</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.996289079991,53.599849264776 -114.996287799991,53.6070781347784 -114.996284839991,53.6142843947807</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.008733119992,53.6070747847784 -115.020894399993,53.6070311647783 -115.033342326715,53.6071101062708</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.020890119993,53.599883134776 -115.020894399993,53.6070311647783 -115.020886199993,53.6142840147807</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.008729589992,53.621495974783 -115.020878959993,53.621519954783 -115.033330745319,53.621543255259</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.020886199993,53.6142840147807 -115.020878959993,53.621519954783 -115.020871273983,53.6289492142852</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.984123199989,53.621506254783 -114.996275769991,53.621501844783 -115.008729589992,53.621495974783</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.996284839991,53.6142843947807 -114.996275769991,53.621501844783 -114.996266433121,53.6289016042742</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.959571849986,53.621534944783 -114.971687079988,53.621521414783 -114.984123199989,53.621506254783</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.971708379988,53.6143147947807 -114.971687079988,53.621521414783 -114.971665308042,53.6288805040397</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.946621999985,53.6214808048737 -114.947154729985,53.621483084783 -114.959571849986,53.621534944783</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.947154749985,53.6142500047807 -114.947154729985,53.621483084783 -114.947144274282,53.6288354242356</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.156245050009,53.5631946447641 -115.16836991001,53.5631704447641 -115.180811527622,53.5631442127932</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.168371369045,53.5617340047637 -115.16836991001,53.5631704447641 -115.168362387332,53.5705733357619</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.131649200006,53.5632568547642 -115.143788200007,53.5632267847642 -115.156245050009,53.5631946447641</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.143790240173,53.5617340047637 -115.143788200007,53.5632267847642 -115.143778074176,53.5706319858078</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.107071450003,53.5632999647642 -115.119209480004,53.5632784947642 -115.131649200006,53.5632568547642</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.119211416199,53.5617340047637 -115.119209480004,53.5632784947642 -115.119200737816,53.570685515884</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.08250586,53.5634089247642 -115.094636920002,53.5633559247642 -115.107071450003,53.5632999647642</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.094637415811,53.5617340047637 -115.094636920002,53.5633559247642 -115.094632687283,53.5707636859664</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.058040929998,53.5634173547642 -115.070132159999,53.5634156147642 -115.08250586,53.5634089247642</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.070125352596,53.5617340047637 -115.070132159999,53.5634156147642 -115.070161297307,53.5708226155211</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.033348249995,53.5634048647642 -115.045534659996,53.5634108647643 -115.058040929998,53.5634173547642</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.045532074946,53.5617340047637 -115.045534659996,53.5634108647643 -115.045546066825,53.5708198959663</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.033345869995,53.578044504769 -115.045527589996,53.578050094769 -115.058014079998,53.578054624769</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.045545349996,53.5708208447666 -115.045527589996,53.578050094769 -115.045509819996,53.5852792847713</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.058014079998,53.578054624769 -115.070104779999,53.578050464769 -115.08246028,53.578044824769</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.070159209999,53.5708235047667 -115.070104779999,53.578050464769 -115.070052409999,53.5852780647713</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.08246028,53.578044824769 -115.094609930002,53.577992544769 -115.107063120003,53.5779376547689</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.094632220002,53.5707646247666 -115.094609930002,53.577992544769 -115.094588520002,53.5852207747713</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.107063120003,53.5779376547689 -115.119195110004,53.5779152947689 -115.131630980006,53.5778938147689</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.119200810004,53.5706864747666 -115.119195110004,53.5779152947689 -115.119189120004,53.5851436047713</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.131630980006,53.5778938147689 -115.143772330007,53.5778632647689 -115.156222590009,53.5778314347689</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.143778170007,53.5706329547666 -115.143772330007,53.5778632647689 -115.143765650007,53.5850991347712</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.156222590009,53.5778314347689 -115.16835598001,53.5778087047689 -115.180798022145,53.5777839894158</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.16836241001,53.5705742947665 -115.16835598001,53.5778087047689 -115.16834955001,53.5850436647712</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">65</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.156202960009,53.5923015147736 -115.16834280001,53.5922732747735 -115.180784784378,53.5922429223098</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.16834955001,53.5850436647712 -115.16834280001,53.5922732747735 -115.168335861673,53.5996826648967</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.131623950006,53.5923523747736 -115.143767200007,53.5923279447736 -115.156202960009,53.5923015147736</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.143765650007,53.5850991347712 -115.143767200007,53.5923279447736 -115.143765929342,53.5997713449952</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">69</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.107081500003,53.5923975847736 -115.119186280004,53.5923751247736 -115.131623950006,53.5923523747736</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.119189120004,53.5851436047713 -115.119186280004,53.5923751247736 -115.11917971061,53.5997844950332</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.08242491,53.5924871347737 -115.094599510002,53.5924441147736 -115.107081500003,53.5923975847736</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.094588520002,53.5852207747713 -115.094599510002,53.5924441147736 -115.094610804022,53.599855305033</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.057934849998,53.5925448447737 -115.070020329999,53.5925169947736 -115.08242491,53.5924871347737</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.070052409999,53.5852780647713 -115.070020329999,53.5925169947736 -115.069988220816,53.5999262245464</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.033339929995,53.5925032647737 -115.045493739996,53.5925255247737 -115.057934849998,53.5925448447737</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">76</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.045509819996,53.5852792847713 -115.045493739996,53.5925255247737 -115.045477259792,53.5999294750135</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.033343969995,53.6071101047784 -115.045449889996,53.6071431547784 -115.057834619997,53.6071756847784</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.045476979996,53.599930424776 -115.045449889996,53.6071431547784 -115.045422709996,53.6143611147807</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">79</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.057834619997,53.6071756847784 -115.069973629999,53.6071571447784 -115.08238007,53.6071372347784</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.069988619999,53.599927184776 -115.069973629999,53.6071571447784 -115.069958579999,53.6143899347807</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.08238007,53.6071372347784 -115.094579680002,53.6070928047784 -115.107020550003,53.6070482547783</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">82</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.094609770002,53.599856274776 -115.094579680002,53.6070928047784 -115.094549590002,53.6143190147807</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">83</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.107020550003,53.6070482547783 -115.119164460004,53.6070206547783 -115.131612010006,53.6069931547783</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.119179470004,53.599785484776 -115.119164460004,53.6070206547783 -115.119148230004,53.6142476147807</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.131612010006,53.6069931547783 -115.143756040007,53.6069684047783 -115.156192650009,53.6069417847783</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.143765720007,53.599772294776 -115.143756040007,53.6069684047783 -115.143746300007,53.6141982047806</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">87</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.156192650009,53.6069417847783 -115.16833095001,53.6069132247783 -115.180771498807,53.6068825439966</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.16833590001,53.5996836247759 -115.16833095001,53.6069132247783 -115.16832598001,53.6141428147806</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.156186,53.621401304783 -115.16832107001,53.6213724047829 -115.180758452032,53.6213413750751</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.16832598001,53.6141428147806 -115.16832107001,53.6213724047829 -115.168316017341,53.6287762540404</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">91</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.131609410006,53.621452764783 -115.143745740007,53.621427984783 -115.156186,53.621401304783</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.143746300007,53.6141982047806 -115.143745740007,53.621427984783 -115.143745166081,53.6288230241276</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">93</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.107064580003,53.621507534783 -115.119161190004,53.621481174783 -115.131609410006,53.621452764783</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">94</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.119148230004,53.6142476147807 -115.119161190004,53.621481174783 -115.119174422251,53.6288647540869</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.08243975,53.6215931447831 -115.094576370002,53.621551574783 -115.107064580003,53.621507534783</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">96</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.094549590002,53.6143190147807 -115.094576370002,53.621551574783 -115.094603565297,53.6289014538035</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">97</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.057833789997,53.6216173947831 -115.069995299999,53.6216060347831 -115.08243975,53.6215931447831</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">98</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.069958579999,53.6143899347807 -115.069995299999,53.6216060347831 -115.070032513175,53.6289332034571</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">99</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.033332349995,53.621543254783 -115.045441449996,53.621580524783 -115.057833789997,53.6216173947831</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.045422709996,53.6143611147807 -115.045441449996,53.621580524783 -115.045460668255,53.6289600040877</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">101</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.205387530014,53.5631243247641 -115.209517000015,53.563119343194</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">102</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.180813150011,53.5631442047641 -115.192945770013,53.5631350147641 -115.205387530014,53.5631243247641</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">103</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.192947428767,53.5617340047637 -115.192945770013,53.5631350147641 -115.192936976674,53.5705447056649</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">104</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.180799640011,53.5777839847689 -115.192934070013,53.5777729947688 -115.205377720014,53.5777604447688</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">105</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.192937110013,53.5705456647665 -115.192934070013,53.5777729947688 -115.192931050013,53.5850019047712</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">106</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.205377720014,53.5777604447688 -115.209517000015,53.5777562575644</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">107</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.205366190014,53.5922138847735 -115.209517000015,53.5922111514635</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">108</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.180786400011,53.5922429247735 -115.192917780013,53.5922292347735 -115.205366190014,53.5922138847735</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">109</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.192931050013,53.5850019047712 -115.192917780013,53.5922292347735 -115.19290419029,53.5996389847331</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">110</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.180773120011,53.6068825347782 -115.192907940013,53.6068686447782 -115.205358000014,53.6068531247782</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">111</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.192904610013,53.5996399447759 -115.192907940013,53.6068686447782 -115.192911260013,53.6141004147805</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">112</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.205358000014,53.6068531247782 -115.209517000015,53.6068504365153</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">113</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.205344450014,53.6213139447829 -115.209517000015,53.6213104544934</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">114</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.180760070011,53.6213413647829 -115.192901570013,53.6213284547829 -115.205344450014,53.6213139447829</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">115</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.192911260013,53.6141004147805 -115.192901570013,53.6213284547829 -115.192891577362,53.6287316839129</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">116</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.946621999985,53.6360377573337 -114.947159889985,53.6360384347877 -114.959548529986,53.6360527747877</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">117</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.947144909985,53.6288363847854 -114.947159889985,53.6360384347877 -114.947174869985,53.64324048479</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">118</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.959548529986,53.6360527747877 -114.971663689988,53.6360841447877 -114.984099599989,53.6361150447878</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">119</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.971665779988,53.6288814547854 -114.971663689988,53.6360841447877 -114.971661559988,53.6432951747901</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">120</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.984099599989,53.6361150447878 -114.996257769991,53.6361307447877 -115.008717829992,53.6361448947877</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">121</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.996266449991,53.6289025547854 -114.996257769991,53.6361307447877 -114.996249109991,53.6433580947901</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">122</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.008717829992,53.6361448947877 -115.020868729993,53.6361683547878 -115.033322120188,53.6361904972554</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.020871399993,53.6289501747854 -115.020868729993,53.6361683547878 -115.020866029993,53.6433900347901</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">124</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.020866029993,53.6433900347901 -115.020861906571,53.6502840047923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">125</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.996249109991,53.6433580947901 -114.996231884123,53.6502840047923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">126</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.971661559988,53.6432951747901 -114.971654762051,53.6502840047923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">127</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.947174869985,53.64324048479 -114.947189421139,53.6502840047923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">128</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.033323759995,53.6361905047878 -115.045460029996,53.6361781647878 -115.057898639998,53.6361642247878</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">129</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.045460199996,53.6289609647854 -115.045460029996,53.6361781647878 -115.045459879996,53.6433964147901</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">130</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.057898639998,53.6361642247878 -115.070028959999,53.6361503547878 -115.08246162,53.6361348547878</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">131</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.070031539999,53.6289341547854 -115.070028959999,53.6361503547878 -115.070026389999,53.6433676247901</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">132</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.08246162,53.6361348547878 -115.094593550002,53.6361193447877 -115.107029570003,53.6361021647877</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">133</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.094602670002,53.6289024047854 -115.094593550002,53.6361193447877 -115.094584410002,53.6433362747901</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">134</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.107029570003,53.6361021647877 -115.119164380004,53.6360859247877 -115.131603280006,53.6360679847877</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">135</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.119173870004,53.6288657147854 -115.119164380004,53.6360859247877 -115.119154870004,53.6433061247901</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">136</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.131603280006,53.6360679847877 -115.143735330007,53.6360490847877 -115.156171500009,53.6360284347877</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">137</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.143744950007,53.6288239947854 -115.143735330007,53.6360490847877 -115.143725720007,53.6432732947901</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">138</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.156171500009,53.6360284347877 -115.16830746001,53.6360046447877 -115.180745847538,53.6359789137266</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">139</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.16831594001,53.6287772047853 -115.16830746001,53.6360046447877 -115.16829895001,53.64323116479</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">140</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.16829895001,53.64323116479 -115.168292489095,53.6502840047923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">141</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.143725720007,53.6432732947901 -115.143718169912,53.6502840047923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">142</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.119154870004,53.6433061247901 -115.11914565318,53.6502840047923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">143</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.094584410002,53.6433362747901 -115.094575344896,53.6502840047923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">144</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.070026389999,53.6433676247901 -115.070016270234,53.6502840047923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">145</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.045459879996,53.6433964147901 -115.045452131964,53.6502840047923</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">146</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.180747470011,53.6359789047877 -115.192860450013,53.6359582847876 -115.205277510014,53.6359361447876</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">147</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.192891060013,53.6287326447853 -115.192860450013,53.6359582847876 -115.192828950013,53.64318501479</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">148</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.205277510014,53.6359361447876 -115.209517000015,53.6359321727189</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Quarter_Section_plyln">
+		<SimpleData name="REC_ID">149</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.192828950013,53.64318501479 -115.19283255388,53.6502840047923</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

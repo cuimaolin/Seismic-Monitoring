@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Provincial_Parks_Label_point" id="Provincial_Parks_Label_point">
+	<SimpleField name="REC_ID" type="float"></SimpleField>
+</Schema>
+<Folder><name>Provincial_Parks_Label_point</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Provincial_Parks_Label_point">
+		<SimpleData name="REC_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.990210245151,53.6091877080048</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

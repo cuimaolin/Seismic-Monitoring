@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Rail_Line_plyln" id="Rail_Line_plyln">
+	<SimpleField name="REC_ID" type="float"></SimpleField>
+</Schema>
+<Folder><name>Rail_Line_plyln</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.000009199991,53.5922760047736 -114.99526869999,53.5912743047732 -114.99334969999,53.5911562047732 -114.99050519999,53.5913513047733 -114.98758309999,53.5919356047735 -114.973641999988,53.5951097047745 -114.959484599986,53.5986881047756 -114.946621999985,53.6019447821456</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.016524199993,53.5958726047747 -115.016191199993,53.5957356047747</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.157377200009,53.6061843047781 -115.155971200009,53.606065004778 -115.147487400008,53.6052899047778 -115.146339800007,53.6050238047777 -115.145561500007,53.6046954047776 -115.144374600007,53.6039185047773 -115.142875400007,53.6033659047771 -115.130681100006,53.6020646047767</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.004494299991,53.5931640047739 -115.001111499991,53.5921683047735 -115.000627199991,53.5921084047735</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.120032100005,53.6010756047764 -115.118854400004,53.6009593047764</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.03290599999,53.5931498047738 -115.028045799994,53.593612004774 -115.022019099993,53.5946836047743 -115.020094399993,53.5950277047745</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.020094399993,53.5950277047745 -115.019941399993,53.5952492047745</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.209517000015,53.6102708858432 -115.205707700014,53.6099513047793 -115.181225200011,53.6078489047786 -115.158415,53.6062508047781</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.118854400004,53.6009593047764 -115.106979900003,53.599852504776 -115.0821469,53.5975966047753 -115.057869499997,53.5953716047746 -115.037360799995,53.5933612047739 -115.034045899995,53.5931401047739</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.016191199993,53.5957356047747 -115.014958599993,53.5957823047747 -115.014392199993,53.5956904047747 -115.013945499993,53.5957291047747 -115.008776299992,53.5944173047743 -115.004494299991,53.5931640047739</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.158415,53.6062508047781 -115.157377200009,53.6061843047781</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.130681100006,53.6020646047767 -115.129731,53.6019808047767</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.034045899995,53.5931401047739 -115.033342499995,53.5931516047738 -115.03290599999,53.5931498047738</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.020094399993,53.5950277047745 -115.016191199993,53.5957356047747</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.129731,53.6019808047767 -115.120032100005,53.6010756047764</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.019941399993,53.5952492047745 -115.019696499993,53.5954501047746 -115.016998699993,53.5959439047748 -115.016524199993,53.5958726047747</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.000627199991,53.5921084047735 -115.000009199991,53.5922760047736</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Rail_Line_plyln">
+		<SimpleData name="REC_ID">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.019941399993,53.5952492047745 -115.016524199993,53.5958726047747</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

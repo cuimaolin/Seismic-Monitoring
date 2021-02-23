@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Township_Label_point" id="Township_Label_point">
+	<SimpleField name="REC_ID" type="float"></SimpleField>
+</Schema>
+<Folder><name>Township_Label_point</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Township_Label_point">
+		<SimpleData name="REC_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.944508186915,53.5851143187911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Township_Label_point">
+		<SimpleData name="REC_ID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.944512018477,53.6490243768839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Township_Label_point">
+		<SimpleData name="REC_ID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.21163081797,53.5848884295365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Township_Label_point">
+		<SimpleData name="REC_ID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.211658594468,53.6490254044075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Township_Label_point">
+		<SimpleData name="REC_ID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.989834070839,53.5611245647085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Township_Label_point">
+		<SimpleData name="REC_ID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.106928185003,53.5611284472234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Township_Label_point">
+		<SimpleData name="REC_ID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.195135668564,53.5611137919312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Township_Label_point">
+		<SimpleData name="REC_ID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.989823147388,53.6509309307445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Township_Label_point">
+		<SimpleData name="REC_ID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.106865985003,53.6509348057017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Township_Label_point">
+		<SimpleData name="REC_ID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.195095883081,53.6509201924405</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

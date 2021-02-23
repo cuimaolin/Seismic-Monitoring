@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Project_WellSymbol_point" id="Project_WellSymbol_point">
+	<SimpleField name="REC_ID" type="float"></SimpleField>
+</Schema>
+<Folder><name>Project_WellSymbol_point</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.03236199999,53.5698720047663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.98969799999,53.5676890047656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.978485999989,53.5737500047676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.02397499999,53.596561004775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.02400299999,53.596561004775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.02332299999,53.596604004775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.00750599999,53.6282050047852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.107904,53.5661240047651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.107904,53.5661240047651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.122226,53.5650760047648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.095742,53.5670140047654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.095956599997,53.5657425048012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.095742,53.5670140047654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.095956599997,53.5657425048012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.095742,53.5670140047654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.095956599997,53.5657425048012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.095742,53.5670140047654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.095956599997,53.5657425048012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.095742,53.5670140047654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.095956599997,53.5657425048012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.079202,53.5701440047664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.079202,53.5701440047664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.079202,53.5701440047664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.079202,53.5701440047664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.073247,53.5752100047681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.073247,53.5752100047681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.090525,53.5734060047675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.091593,53.5762050047684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.084434,53.5785220047691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.08649819993,53.5778981047382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.084434,53.5785220047691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.08649819993,53.5778981047382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.084434,53.5785220047691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.08649819993,53.5778981047382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.084434,53.5785220047691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.08649819993,53.5778981047382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.084434,53.5785220047691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.08649819993,53.5778981047382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.084434,53.5785220047691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.08649819993,53.5778981047382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.084434,53.5785220047691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.08649819993,53.5778981047382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.084434,53.5785220047691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.08649819993,53.5778981047382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.122266,53.5736580047675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.122266,53.5736580047675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.115521,53.5774330047688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.145004,53.5773190047687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.14679,53.5776234047638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.145004,53.5773190047687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.14679,53.5776234047638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.145004,53.5773190047687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.14679,53.5776234047638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.176725000011,53.5949600047744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.108471,53.5976570047753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.09561,53.587361004772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.09561,53.587361004772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.073619,53.5988350047757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.05095,53.596804004775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.05095,53.596804004775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.05095,53.596804004775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.048686,53.6030820047771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.147526,53.6047050047776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.146755,53.6196190047824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.137697,53.6236000047837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.058768,53.6220610047832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.197070000013,53.6253630047843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.984700999989,53.6358110047876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.99252499999,53.6478470047915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.051569,53.6397900047889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.074619,53.6388290047886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.074619,53.6388290047886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.074619,53.6388290047886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.091555,53.6379130047883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.091207,53.6377210047883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.148319,53.6481890047916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.100036,53.6497800047922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.062957,53.6487640047918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">79</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.058881300063,53.6445081048423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.062957,53.6487640047918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.058881300063,53.6445081048423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">82</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.062957,53.6487640047918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.058881300063,53.6445081048423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Project_WellSymbol_point">
+		<SimpleData name="REC_ID">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.201176000014,53.6350050047874</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

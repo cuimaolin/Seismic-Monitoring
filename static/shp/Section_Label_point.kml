@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Section_Label_point" id="Section_Label_point">
+	<SimpleField name="REC_ID" type="float"></SimpleField>
+</Schema>
+<Folder><name>Section_Label_point</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.020887549993,53.5633887647642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.996325279991,53.5633525347642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.971797369988,53.5633177047642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.947264019985,53.5632678047642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.947247749985,53.5779301047689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.971769249988,53.5779870747689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.996294579991,53.578018694769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.020874789993,53.578049944769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.020886969993,53.5924701747736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.996287389991,53.5924418747736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.971741349988,53.5924476747736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.947247329985,53.5923833847736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.947203809985,53.6070213347783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.971717919988,53.6070856747784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.996287799991,53.6070781347784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.020894399993,53.6070311647783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.020878959993,53.621519954783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.996275769991,53.621501844783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.971687079988,53.621521414783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.947154729985,53.621483084783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.16836991001,53.5631704447641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.143788200007,53.5632267847642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.119209480004,53.5632784947642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.094636920002,53.5633559247642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.070132159999,53.5634156147642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.045534659996,53.5634108647643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.045527589996,53.578050094769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.070104779999,53.578050464769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.094609930002,53.577992544769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.119195110004,53.5779152947689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.143772330007,53.5778632647689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.16835598001,53.5778087047689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.16834280001,53.5922732747735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.143767200007,53.5923279447736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.119186280004,53.5923751247736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.094599510002,53.5924441147736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.070020329999,53.5925169947736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.045493739996,53.5925255247737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.045449889996,53.6071431547784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.069973629999,53.6071571447784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.094579680002,53.6070928047784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.119164460004,53.6070206547783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.143756040007,53.6069684047783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.16833095001,53.6069132247783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.16832107001,53.6213724047829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.143745740007,53.621427984783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.119161190004,53.621481174783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.094576370002,53.621551574783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.069995299999,53.6216060347831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.045441449996,53.621580524783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.192945770013,53.5631350147641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.192934070013,53.5777729947688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.192917780013,53.5922292347735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.192907940013,53.6068686447782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.192901570013,53.6213284547829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.947159889985,53.6360384347877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.971663689988,53.6360841447877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.996257769991,53.6361307447877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.020868729993,53.6361683547878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.020861709993,53.6506126647925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.99623112999,53.6505872147924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.971654529988,53.6505225847924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.947189779985,53.6504577047923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.045460029996,53.6361781647878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.070028959999,53.6361503547878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.094593550002,53.6361193447877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.119164380004,53.6360859247877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.143735330007,53.6360490847877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.16830746001,53.6360046447877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.16829233001,53.6504576647923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.143717940007,53.6504974847924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.119145330004,53.6505286747924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.094574990002,53.6505560047924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.070015829999,53.6505848847924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.045451759996,53.6506146647924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.192860450013,53.6359582847876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Section_Label_point">
+		<SimpleData name="REC_ID">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.192832620013,53.6504142747923</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

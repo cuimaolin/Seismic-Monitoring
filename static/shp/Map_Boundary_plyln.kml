@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Map_Boundary_plyln" id="Map_Boundary_plyln">
+	<SimpleField name="REC_ID" type="float"></SimpleField>
+</Schema>
+<Folder><name>Map_Boundary_plyln</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Map_Boundary_plyln">
+		<SimpleData name="REC_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.209516000015,53.5617350047637 -115.0,53.5617350047637 -114.946622999985,53.5617350047637 -114.946622999985,53.6502830047923 -115.0,53.6502830047923 -115.209516000015,53.6502830047923 -115.209516000015,53.5617350047637</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

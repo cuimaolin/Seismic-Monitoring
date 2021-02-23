@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+
+    <script type="text/javascript" src="/static/dashboard_js.js"></script>
+    <script type="text/javascript" src="/static/graph_js.js"></script>
+    <script type="text/javascript" src="/static/map_js.js"></script>
+    <script type="text/javascript" src="/static/geoxml3.js"></script>
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB6dsZcE_S5dW5X0-onAzVB0aKDV_pHU5I">
+    </script>
+    <script type="text/javascript" src="/static/markerwithlabel.js"></script>
+
+
+    <meta charset="UTF-8">
+    <title>Portae Terra</title>
+</head>
+
+
+<body>
+<div id="title-banner">
+    <img src="/static/logo.png" alt="banner not found" id="logo" style="display: none">
+    <h3 id="title-text">Portae Terra - Seismic Monitoring</h3>
+</div>
+<hr id="title-line">
+
+
+<!-- Modal -->
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog"
+     aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalCenterTitle">Please Enter Access Code</h5>
+            </div>
+            <div class="modal-body">
+
+
+                <form class="form-inline" style="margin-left: 19%; width:250px;">
+                    <div class="form-group mx-sm-3 mb-2">
+                        <label for="inputPassword2" class="sr-only">Password</label>
+                        <input type="password" class="form-control" id="inputAccessCode" placeholder="######">
+                        <a href=# id="enterPassword" style="padding-left: 12px;">
+                            <button type="button" class="btn btn-primary" id="enterPasswordButton">Enter
+                            </button>
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(window).on('load', function () {
+        $('#loginModal').modal('show');
+    });
+
+    $('#loginModal').modal({backdrop: 'static', keyboard: false});
+
+    $(function () {
+        $('a#enterPassword').bind('click', function (e) {   //将enterPassword的button与verifyAccessCode绑定在一起
+            verifyAccessCode(e);
+        });
+    });
+    $(document).keypress(function (e) {
+        //login moddal为show，并且敲击回车(回车的ASCII码为13)，调用verifyAccessCode
+        if ($("#loginModal").hasClass('show') && (e.keycode == 13 || e.which == 13)) {  
+            verifyAccessCode(e);
+        }
+    });
+</script>
+<!-- End Modal -->
+
+<!-- Loading Modal-->
+<!-- data-backdrop="static"表示点击backdrop不会关闭，data-keyboard表示esc不会关闭-->
+<div class="modal fade bd-example-modal-lg loading-modal" data-backdrop="static" data-keyboard="false" tabindex="-1">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content" style="width: 80px">
+            <span class="fa fa-spinner fa-spin fa-3x"></span>
+        </div>
+    </div>
+</div>
+<!-- End Loading Modal-->
+
+<div id="main-container">
+
+    <div style="background-color: white; border-bottom: 1px solid #d3d3d3; padding: 5px; font-family: inherit">
+
+        <div style="display: inline-block; width: 195px;">
+            <h5 style="display: inline-block; text-align: center;">Number of Plots Displayed:&nbsp</h5>
+        </div>
+        <div style="display: inline-block">
+            <div style="display: inline-block">
+                <!--每个loadgraph与一个loadGraphs绑定在一起-->
+                <div id="load1graph" style="color:red; font-weight: bold;" class="graph-options"
+                     onclick="load1Graphs()">
+                    &nbsp&nbsp&nbsp 1 &nbsp&nbsp&nbsp
+                </div>
+                |
+                <div id="load2graphs" class="graph-options" onclick="load2Graphs()">&nbsp&nbsp&nbsp 2 &nbsp&nbsp&nbsp
+                </div>
+                |
+                <div id="load3graphs" class="graph-options" onclick="load3Graphs()">&nbsp&nbsp&nbsp 3 &nbsp&nbsp&nbsp
+                </div>
+            </div>
+            <div>
+                <div id="load4graphs" class="graph-options" onclick="load4Graphs()">&nbsp&nbsp&nbsp 4 &nbsp&nbsp&nbsp
+                </div>
+                |
+                <div id="load5graphs" class="graph-options" onclick="load5Graphs()">&nbsp&nbsp&nbsp 5 &nbsp&nbsp&nbsp
+                </div>
+                |
+                <div id="load6graphs" class="graph-options" onclick="load6Graphs()">&nbsp&nbsp&nbsp 6</div>
+            </div>
+        </div>
+
+        <div style="padding: 0px 30px 0px; display: inline-block;">
+            <div style="display: flex;"><h6>Last</h6></div>
+            <div style="display: flex;">
+                <!--每个last与一个loadLastDays函数绑定在一起-->
+                <div style="border-right: 1px solid black; padding-right: 10px; color: rgb(0, 109, 204);"
+                     onclick="loadLastDays(1)">
+                    <div style="cursor: pointer;" id="last30Days">30 days</div>
+                </div>
+                <div style="border-right: 1px solid black; padding: 0px 10px; color: rgb(0, 109, 204);"
+                     onclick="loadLastDays(3)">
+                    <div style="cursor: pointer;" id="last90Days">90 days</div>
+                </div>
+                <div style="padding: 0px 10px; color: rgb(0, 109, 204);"
+                     onclick="loadLastDays(12)">
+                    <div style="cursor: pointer;" id="last1Year">1 year</div>
+                </div>
+            </div>
+        </div>
+
+        <div style="display: inline-block; float: right; padding-right: 12px; padding-top: 3px">
+            <!--选项卡-->
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="stationRadio" id="stationRadio1" value="all" checked>
+                <label class="form-check-label" for="stationRadios1" id="stationRadio1Label">
+                    All Stations
+                </label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="stationRadio" id="stationRadios2" value="only">
+                <label class="form-check-label" for="stationRadios2">
+                    Portae Terra Stations
+                </label>
+            </div>
+
+        </div>
+
+
+    </div>
+
+    <div id="graph-element-container" class="main-element">
+
+        <div id="graph-element" class="graph">
+            <form>
+                <div class="form-group">
+                    <div>
+
+                        <select class="form-control station-selection" id="station-select-0"
+                                onchange="stationSelectionOnChange('station-select-0', 1)">
+
+                        </select>
+
+                        <select class="form-control" id="fileSelection0" style="width: 40%; display: inline;"
+                                onchange="getGraphData(null, 'fileSelection0', 'station-select-0', 1);">
+                        </select>
+                        <label class="radio-inline"><input type="radio" name="unitRadio" value="ug"
+                                                           checked>&nbspug</label>
+                        <label class="radio-inline"><input type="radio" name="unitRadio"
+                                                           value="cmpss">&nbspcm/s<sup>2</sup>&nbsp</label>
+                        <!--a href=# id=fileSubmit0 style="width: 10%">
+                            <button class="btn btn-info">&nbsp&nbspPlot&nbsp&nbsp</button>
+                        </a-->
+                        <button class="btn btn-danger noiseButton" style="display: none;" type="button"
+                                onclick="deleteNoiseFile('station-select-0')">
+                            &nbsp&nbspNoise&nbsp&nbsp
+                        </button>
+                        <a href='' id='downloadButton0' style="width: 10%">
+                            <button class="btn btn-success">&nbsp&nbspDownload&nbsp&nbsp</button>
+                        </a>
+                    </div>
+                </div>
+            </form>
+
+            <div class="container">
+                <div class="row">
+                    <div id="graph0">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="graph-element1" style="display: none;" class="graph">
+            <form>
+                <div class="form-group">
+                    <div>
+
+                        <select class="form-control station-selection" id="station-select-1"
+                                onchange="stationSelectionOnChange('station-select-1', 2)">
+                        </select>
+
+                        <select class="form-control" id="fileSelection1" style="width: 40%; display: inline;"
+                                onchange="getGraphData(null, 'fileSelection1', 'station-select-1', 2);">
+                        </select>
+                        <label class="radio-inline"><input type="radio" name="unitRadio" value="ug"
+                                                           checked>&nbspug</label>
+                        <label class="radio-inline"><input type="radio" name="unitRadio"
+                                                           value="cmpss">&nbspcm/s<sup>2</sup>&nbsp</label>
+                        <!--a href=# id=fileSubmit1 style="width: 10%">
+                            <button class="btn btn-info">&nbsp&nbspPlot&nbsp&nbsp</button>
+                        </a-->
+                        <button class="btn btn-danger noiseButton" style="display: none;" type="button"
+                                onclick="deleteNoiseFile('station-select-1')">
+                            &nbsp&nbspNoise&nbsp&nbsp
+                        </button>
+                        <a href='' id='downloadButton1' style="width: 10%">
+                            <button class="btn btn-success">&nbsp&nbspDownload&nbsp&nbsp</button>
+                        </a>
+                    </div>
+                </div>
+            </form>
+
+            <div class="container">
+                <div class="row">
+                    <div id="graph1">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="graph-element2" style="display: none;" class="graph">
+            <form>
+                <div class="form-group">
+                    <div>
+
+                        <select class="form-control station-selection" id="station-select-2"
+                                onchange="stationSelectionOnChange('station-select-2', 3)">
+                        </select>
+
+                        <select class="form-control" id="fileSelection2" style="width: 40%; display: inline;"
+                                onchange="getGraphData(null, 'fileSelection2', 'station-select-2', 3);">
+                        </select>
+                        <label class="radio-inline"><input type="radio" name="unitRadio" value="ug"
+                                                           checked>&nbspug</label>
+                        <label class="radio-inline"><input type="radio" name="unitRadio"
+                                                           value="cmpss">&nbspcm/s<sup>2</sup>&nbsp</label>
+                        <!--a href=# id=fileSubmit2 style="width: 10%">
+                            <button class="btn btn-info">&nbsp&nbspPlot&nbsp&nbsp</button>
+                        </a-->
+                        <button class="btn btn-danger noiseButton" style="display: none;" type="button"
+                                onclick="deleteNoiseFile('station-select-2')">
+                            &nbsp&nbspNoise&nbsp&nbsp
+                        </button>
+                        <a href='' id='downloadButton2' style="width: 10%">
+                            <button class="btn btn-success">&nbsp&nbspDownload&nbsp&nbsp</button>
+                        </a>
+                    </div>
+                </div>
+            </form>
+
+            <div class="container">
+                <div class="row">
+                    <div id="graph2">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="graph-element-container2" class="main-element" style="display: none;">
+        <div id="graph-element3" class="graph" style="display: none;">
+            <form>
+                <div class="form-group">
+                    <div>
+
+                        <select class="form-control station-selection" id="station-select-3"
+                                onchange="stationSelectionOnChange('station-select-3', 4)">
+                        </select>
+
+                        <select class="form-control" id="fileSelection3" style="width: 40%; display: inline;"
+                                onchange="getGraphData(null, 'fileSelection3', 'station-select-3', 4);">
+                        </select>
+                        <label class="radio-inline"><input type="radio" name="unitRadio" value="ug"
+                                                           checked>&nbspug</label>
+                        <label class="radio-inline"><input type="radio" name="unitRadio"
+                                                           value="cmpss">&nbspcm/s<sup>2</sup>&nbsp</label>
+                        <!--a href=# id=fileSubmit3 style="width: 10%">
+                            <button class="btn btn-info">&nbsp&nbspPlot&nbsp&nbsp</button>
+                        </a-->
+                        <button class="btn btn-danger noiseButton" style="display: none;" type="button"
+                                onclick="deleteNoiseFile('station-select-3')">
+                            &nbsp&nbspNoise&nbsp&nbsp
+                        </button>
+                        <a href='' id='downloadButton3' style="width: 10%">
+                            <button class="btn btn-success">&nbsp&nbspDownload&nbsp&nbsp</button>
+                        </a>
+                    </div>
+                </div>
+            </form>
+
+            <div class="container">
+                <div class="row">
+                    <div id="graph3">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="graph-element4" class="graph" style="display: none;">
+            <form>
+                <div class="form-group">
+                    <div>
+
+                        <select class="form-control station-selection" id="station-select-4"
+                                onchange="stationSelectionOnChange('station-select-4', 5)">
+                        </select>
+
+                        <select class="form-control" id="fileSelection4" style="width: 40%; display: inline;"
+                                onchange="getGraphData(null, 'fileSelection4', 'station-select-4', 5);">
+                        </select>
+                        <label class="radio-inline"><input type="radio" name="unitRadio" value="ug"
+                                                           checked>&nbspug</label>
+                        <label class="radio-inline"><input type="radio" name="unitRadio"
+                                                           value="cmpss">&nbspcm/s<sup>2</sup>&nbsp</label>
+                        <!--a href=# id=fileSubmit4 style="width: 10%">
+                            <button class="btn btn-info">&nbsp&nbspPlot&nbsp&nbsp</button>
+                        </a-->
+                        <button class="btn btn-danger noiseButton" style="display: none;" type="button"
+                                onclick="deleteNoiseFile('station-select-4')">
+                            &nbsp&nbspNoise&nbsp&nbsp
+                        </button>
+                        <a href='' id='downloadButton4' style="width: 10%">
+                            <button class="btn btn-success">&nbsp&nbspDownload&nbsp&nbsp</button>
+                        </a>
+                    </div>
+                </div>
+            </form>
+
+            <div class="container">
+                <div class="row">
+                    <div id="graph4">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="graph-element5" class="graph" style="display: none;">
+            <form>
+                <div class="form-group">
+                    <div>
+
+                        <select class="form-control station-selection" id="station-select-5"
+                                onchange="stationSelectionOnChange('station-select-5', 6)">
+                        </select>
+
+                        <select class="form-control" id="fileSelection5" style="width: 40%; display: inline;"
+                                onchange="getGraphData(null, 'fileSelection5', 'station-select-5', 6);">
+                        </select>
+                        <form name="unitForm">
+                            <label class="radio-inline"><input type="radio" name="unitRadio" value="ug"
+                                                               checked>&nbspug</label>
+                            <label class="radio-inline"><input type="radio" name="unitRadio"
+                                                               value="cmpss">&nbspcm/s<sup>2</sup>&nbsp</label>
+                        </form>
+                        <!--a href=# id=fileSubmit5 style="width: 10%">
+                            <button class="btn btn-info">&nbsp&nbspPlot&nbsp&nbsp</button>
+                        </a-->
+                        <button class="btn btn-danger noiseButton" style="display: none;" type="button"
+                                onclick="deleteNoiseFile('station-select-5')">
+                            &nbsp&nbspNoise&nbsp&nbsp
+                        </button>
+                        <a href='' id='downloadButton5' style="width: 10%">
+                            <button class="btn btn-success">&nbsp&nbspDownload&nbsp&nbsp</button>
+                        </a>
+                    </div>
+                </div>
+            </form>
+
+            <div class="container">
+                <div class="row">
+                    <div id="graph5">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="map-element" class="main-element">
+        <div id="map" style="border-radius: 8px;"></div>
+        <div id="legend" style="display: none;"><h5>Legend</h5></div>
+    </div>
+
+</div>
+
+<!--Warning Modal -->
+<div class="modal fade" id="warningModal" tabindex="-1" role="dialog"
+     aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <form class="form-inline" style="margin-left: 12%; width:250px;">
+                    <div class="form-group mx-sm-3 mb-2">
+                        <div style="padding-right: 35px;">The selected station has no data.
+                        </div>
+                        <button type="button" class="btn btn-primary" id="warningOkButton" style="width: 65px">OK
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    addAllFileOptions({{ fileList|safe}});      //增加file option
+    $("#map").height($(window).height() - 190);     //计算map的height
+    $("#graph-element-container").height($(window).height() - 190);     //graph element container的height
+    $("#graph-element-container2").height($(window).height() - 190);
+    initMap({{ stationList|safe }}, {{ kmlFileList|safe }});        //初始化map
+    setUnitOnChange();          //unit更改的触发的事件
+    setStationRadioOnChange();
+</script>
+</body>
+</html>                               

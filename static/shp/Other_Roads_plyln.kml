@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Other_Roads_plyln" id="Other_Roads_plyln">
+	<SimpleField name="REC_ID" type="float"></SimpleField>
+</Schema>
+<Folder><name>Other_Roads_plyln</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.99055189999,53.5903978047729 -114.98930909999,53.590475804773</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.977388599988,53.5879104047721 -114.979883599989,53.5881862047722 -114.981443899989,53.5884193047723 -114.982347199989,53.5884886047724 -114.982906699989,53.5884800047723</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.986273399989,53.587583804772 -114.986104399989,53.5876438047721</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.986104399989,53.5876438047721 -114.985271999989,53.5879894047722 -114.985192699989,53.5880691047722</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.99093659999,53.5896131047727 -114.99481749999,53.5899838047728</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.985192699989,53.5880691047722 -114.985018499989,53.5882369047722 -114.984962499989,53.5884608047723 -114.985160199989,53.5887518047724 -114.985619199989,53.5889483047725 -114.98708649999,53.5892336047726</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.98708649999,53.5892336047726 -114.98792849999,53.5893198047726 -114.98810879999,53.5893408047726 -114.99093659999,53.5896131047727</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.99055189999,53.5903978047729 -114.98998979999,53.590460204773 -114.98969779999,53.590563104773 -114.98967629999,53.5906976047731 -114.98988659999,53.5910428047732</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.983691399989,53.5888169047724 -114.98708649999,53.5892336047726</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.985065199989,53.5866195047717 -114.985269499989,53.5870903047719 -114.985272999989,53.587333104772 -114.985200699989,53.5875837047721 -114.984869099989,53.5878837047721 -114.984328299989,53.5881354047722 -114.983638599989,53.5883396047723 -114.982906699989,53.5884800047723</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.985192699989,53.5880691047722 -114.985377699989,53.5879913047722 -114.985683099989,53.5879245047722 -114.986000099989,53.5879298047721 -114.986416399989,53.5880717047722 -114.98690059999,53.5883765047723</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.99604699999,53.5901843047729 -114.997706799991,53.590553604773 -114.999540599991,53.5910789047732</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.99055189999,53.5903978047729 -114.99177869999,53.5903375047729 -114.99464649999,53.590403604773</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.986200899989,53.587519704772 -114.986046999989,53.587580004772</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.98930909999,53.590475804773 -114.98920169999,53.590509904773</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.985145799989,53.5865129047717 -114.985543199989,53.5867354047718 -114.986092799989,53.5869334047718 -114.98753059999,53.5872004047719</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.977388599988,53.5879104047721 -114.983691399989,53.5888169047724</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.983618299989,53.5894001047726 -114.985189499989,53.5897232047727 -114.986487199989,53.5900776047729 -114.98836319999,53.590666704773</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.967723199987,53.5868654047718 -114.977388599988,53.5879104047721</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.99481749999,53.5899838047728 -114.99604699999,53.5901843047729</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.98836319999,53.590666704773 -114.98926519999,53.5907627047731 -114.98979429999,53.5910772047732</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.986046999989,53.587580004772 -114.984600899989,53.5881220047722 -114.983941799989,53.5883177047723 -114.982906699989,53.5884800047723</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-114.98920169999,53.590509904773 -114.98901539999,53.590614704773 -114.98836319999,53.590666704773</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.022003299993,53.6015753047766 -115.021719699993,53.6018223047767 -115.021275399993,53.6019498047767</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.021983599993,53.6016739047766 -115.022247799993,53.6018400047767 -115.02268499999,53.6018652047767</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Other_Roads_plyln">
+		<SimpleData name="REC_ID">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-115.094944400002,53.5975539047753 -115.094871,53.5978403047754</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
